@@ -1,1 +1,2 @@
-# Memory-Cards-Game-HTML-JS-CSS-
+# Memory-Cards-Game
+-HTML-JS-CSS-
